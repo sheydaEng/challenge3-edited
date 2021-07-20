@@ -96,12 +96,10 @@ font-size: 18px;
 }
 .sub-box-middle
 {
-   padding: 0px 0px 0px 0px;
-    height: 1.25em;
-    margin: 0px;
+
     display: flex;
-    justify-content: center;
-    justify-items: center; 
+    justify-content:space-between;
+
 }
 
 hr{
@@ -117,14 +115,10 @@ hr{
 
 .sub-box-bottom
 {
-    height: 1.25em;
-    margin-top:0px;
-    margin-bottom: 0px;
-    padding-left: 29px;
-    padding-right:36px;
+
     display: flex;
-    justify-content: center;
-    justify-items: center; 
+    justify-content: space-between;
+  
 }
 .photo-box
 {
